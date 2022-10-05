@@ -5,7 +5,7 @@
         <h1>{{ title }}</h1>
       </div>
       <div class="header__info">
-        <img class="header__bars" src="(https://user-images.githubusercontent.com/74377158/194156340-c10b6f86-43ba-4531-af3f-fd6777a6f3a5.svg" alt="menu hamburguer">
+        <img class="header__bars" src="https://user-images.githubusercontent.com/74377158/194156340-c10b6f86-43ba-4531-af3f-fd6777a6f3a5.svg" alt="menu hamburguer">
         <ul class="header__list">
           <li v-for="content in items" :key="content.id">
             <a :href="content.link">{{ content.name }}</a>
