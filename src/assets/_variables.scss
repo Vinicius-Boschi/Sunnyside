@@ -1,0 +1,34 @@
+// Primary colors
+
+$softRed: hsl(7, 99%, 70%);
+$yellow: hsl(51, 100%, 49%);
+$cyan: hsla(168, 43%, 51%, 0.64);
+$darkCyan: hsl(167, 40%, 24%);
+$darkModerateCyan: hsl(168, 34%, 41%);
+$darkBlue: hsl(198, 62%, 26%);
+
+// Neutral colors
+
+$veryDarkBlue: hsl(212, 27%, 19%);
+$veryDarkGrayish: hsl(213, 9%, 39%);
+$darkGrayish: hsl(232, 10%, 55%);
+$grayish: hsla(206, 4%, 67%, 0.401);
+$white: hsl(0, 0%, 100%);
+$black: hsl(0, 0%, 0%);
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@800;900&display=swap');
+
+$barlow: 'Barlow', sans-serif; // Text
+$fraunces: 'Fraunces', serif; // Title
+
+// Responsivity
+
+@mixin phone {
+    @media (min-width: 375px) and (max-width: 540px) { @content; }
+}
+
+@mixin tablet {
+    @media (min-width: 541px) and (max-width: 999px) { @content; }
+}
