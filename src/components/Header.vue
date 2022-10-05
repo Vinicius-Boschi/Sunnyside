@@ -5,7 +5,7 @@
         <h1>{{ title }}</h1>
       </div>
       <div class="header__info">
-        <img class="header__bars" src="../../public/images/icon-hamburger.svg" alt="">
+        <img class="header__bars" src="(https://user-images.githubusercontent.com/74377158/194156340-c10b6f86-43ba-4531-af3f-fd6777a6f3a5.svg" alt="menu hamburguer">
         <ul class="header__list">
           <li v-for="content in items" :key="content.id">
             <a :href="content.link">{{ content.name }}</a>
@@ -29,7 +29,7 @@
       return {
         title: 'sunnyside',
         text: 'We are creative',
-        image: '../../public/images/icon-arrow-down.svg',
+        image: 'https://user-images.githubusercontent.com/74377158/194156335-fc639284-5a2f-440b-a6fc-f905060fd724.svg',
         altImage: 'arrow down',
         items: [
           {link: '#', name: 'About'}, {link: '#', name: 'Services'}, {link: '#', name: 'Projects'}
@@ -55,7 +55,7 @@
   @import '../assets/_variables.scss';
 
   .header {
-    background-image: url('../../public/images/image-header.jpg');
+    background-image: url('https://user-images.githubusercontent.com/74377158/194156368-e88afcde-af59-422f-94a3-07da46e92ed8.jpg');
     background-size: cover;
     height: calc(100vh - 30px);
     padding: 1rem;

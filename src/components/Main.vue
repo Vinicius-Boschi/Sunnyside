@@ -25,7 +25,7 @@
             infos: [
                 {
                     classColection: "main__colection",
-                    img: "../../public/images/image-transform.jpg",
+                    img: "https://user-images.githubusercontent.com/74377158/194156383-3d05d25a-e5ee-47be-b7da-d13ad2144174.jpg",
                     alt: "egg",
                     title: "Transform your brand",
                     text: "We are a full-service creative agency specializing in helping brands grow fast. Engage your clients through compelling visuals that do most of the marketing for you.",
@@ -35,7 +35,7 @@
                 },
                 {
                     classColection: "main__colection left",
-                    img: "../../public/images/image-stand-out.jpg",
+                    img: "https://user-images.githubusercontent.com/74377158/194156376-a263f6ab-5c47-4562-84e0-bdc2563412fe.jpg",
                     alt: "cup",
                     title: "Stand out to the right audience",
                     text: "Using a collaborative formula of designers, researches, photographers, videographers and copywriters, we will build and extend your brand in digital places.",
@@ -45,7 +45,7 @@
                 },
                 {
                     classColection: "main__colection",
-                    img: "../../public/images/image-graphic-design.jpg",
+                    img: "https://user-images.githubusercontent.com/74377158/194156365-874b1ec8-2de1-483a-ace4-82e526042734.jpg",
                     alt: "cherry",
                     title: "Graphic Design",
                     text: "Great design makes your memorable. We deliver artwork that underscores your brand message and captures potential clients attention.",
@@ -55,7 +55,7 @@
                 },
                 {
                     classColection: "main__colection left",
-                    img: "../../public/images/image-photography.jpg",
+                    img: "https://user-images.githubusercontent.com/74377158/194156374-8ff03d23-cbf6-4aa9-a635-f57f9cb49bda.jpg",
                     alt: "orange",
                     title: "Photography",
                     text: "Increase your credibility by getting the most stunning, high-quality photos that improve your business image.",

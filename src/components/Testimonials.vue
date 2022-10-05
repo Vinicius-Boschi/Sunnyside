@@ -24,20 +24,20 @@
         data() {
             return {
                 title: 'Client testimonials',
-                milkbottle: '../../public/images/image-gallery-milkbottles.jpg', name: 'milkbottle',
-                orange: '../../public/images/image-gallery-orange.jpg', nameTwo: 'orange',
-                cone: '../../public/images/image-gallery-cone.jpg', nameThree: 'cone',
-                sugarcubes: '../../public/images/image-gallery-sugarcubes.jpg', nameFour: 'sugarcubes',
+                milkbottle: 'https://user-images.githubusercontent.com/74377158/194156359-aa05d0b8-d428-4cdd-a86a-6b4fcbe1c339.jpg', name: 'milkbottle',
+                orange: 'https://user-images.githubusercontent.com/74377158/194156360-deb763aa-ce70-4722-8b28-04ac8712e030.jpg', nameTwo: 'orange',
+                cone: 'https://user-images.githubusercontent.com/74377158/194156355-754fe33f-f088-4ba7-a486-9a19e98d278e.jpg', nameThree: 'cone',
+                sugarcubes: 'https://user-images.githubusercontent.com/74377158/194156362-762dfc93-41e3-4699-a606-0b3059474f04.jpg', nameFour: 'sugarcubes',
 
                 content: [
                     {
-                        img: "../../public/images/image-emily.jpg", text: "We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit.", name: "Emily R.", job: "Marketing Director"
+                        img: "https://user-images.githubusercontent.com/74377158/194156353-8ea7aaea-b233-43ea-b8ed-8f7ee1870805.jpg", text: "We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit.", name: "Emily R.", job: "Marketing Director"
                     },
                     {
-                        img: "../../public/images/image-thomas.jpg", text: "Sunnyside's enthusiasm coupled with their keen interest in our brand's success made it a satisfying and enjoyable experience.", name: "Thomas S.", job: "Chief Operating Officer"
+                        img: "https://user-images.githubusercontent.com/74377158/194156380-db4ae76f-9d10-48a0-b377-1eb7bd95cb56.jpg", text: "Sunnyside's enthusiasm coupled with their keen interest in our brand's success made it a satisfying and enjoyable experience.", name: "Thomas S.", job: "Chief Operating Officer"
                     },
                     {
-                        img: "../../public/images/image-jennie.jpg", text: "Incredible end result! Our sales incresead over 400% when we worked with Sunnyside. Highly recommended.", name: "Jennie F.", job: "Business Owner"
+                        img: "https://user-images.githubusercontent.com/74377158/194156371-236e7947-0362-41df-a2de-b1bc66178718.jpg", text: "Incredible end result! Our sales incresead over 400% when we worked with Sunnyside. Highly recommended.", name: "Jennie F.", job: "Business Owner"
                     }
                 ]
             }

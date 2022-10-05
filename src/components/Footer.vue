@@ -29,10 +29,10 @@
                     { link: '#', name: 'About' }, { link: '#', name: 'Services' }, { link: '#', name: 'Projects' }
                 ],
                 social: [
-                    { link: '#', name: 'facebook', image: '../../public/images/icon-facebook.svg' },
-                    { link: '#', name: 'instagram', image: '../../public/images/icon-instagram.svg' },
-                    { link: '#', name: 'twitter', image: '../../public/images/icon-twitter.svg' },
-                    { link: '#', name: 'pinterest', image: '../../public/images/icon-pinterest.svg' },
+                    { link: '#', name: 'facebook', image: 'https://user-images.githubusercontent.com/74377158/194156339-b50e095e-de21-4c47-a903-72ee3e910b6f.svg' },
+                    { link: '#', name: 'instagram', image: 'https://user-images.githubusercontent.com/74377158/194156346-e34db341-d31f-4698-bb1b-e4e403cd53ca.svg' },
+                    { link: '#', name: 'twitter', image: 'https://user-images.githubusercontent.com/74377158/194156351-b8ff0199-d2ee-4975-81d8-ca91eddecd25.svg' },
+                    { link: '#', name: 'pinterest', image: 'https://user-images.githubusercontent.com/74377158/194156350-30da39d0-bc06-4509-8952-509944fd5e9e.svg' },
                 ]
             }
         }
